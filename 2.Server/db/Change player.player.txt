@@ -1,0 +1,2 @@
+Add at the end:
+kills->smallint->2->not null

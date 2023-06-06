@@ -1,0 +1,12 @@
+100145	ETC	icon/item/100145.tga
+100146	ETC	icon/item/100145.tga
+100147	ETC	icon/item/100145.tga
+100148	ETC	icon/item/100145.tga
+100149	ETC	icon/item/100145.tga
+100150	ETC	icon/item/100145.tga
+100151	ETC	icon/item/100145.tga
+100152	ETC	icon/item/100145.tga
+100153	ETC	icon/item/100145.tga
+100154	ETC	icon/item/100145.tga
+100155	ETC	icon/item/100145.tga
+100156	ETC	icon/item/100145.tga
